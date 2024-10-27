@@ -1,0 +1,296 @@
+[
+  {
+    "player": "Joel Embiid",
+    "team": "PHI",
+    "points": 33.0,
+    "rebounds": 6.4
+  },
+  {
+    "player": "Luka Doncic",
+    "team": "DAL",
+    "points": 32.4,
+    "rebounds": 9.5
+  },
+  {
+    "player": "Devin Booker",
+    "team": "PHX",
+    "points": 31.0,
+    "rebounds": 6.0
+  },
+  {
+    "player": "Donovan Mitchell",
+    "team": "CLE",
+    "points": 30.3,
+    "rebounds": 5.8
+  },
+  {
+    "player": "Stephen Curry",
+    "team": "GSW",
+    "points": 29.8,
+    "rebounds": 4.7
+  },
+  {
+    "player": "Shai Gilgeous-Alexander",
+    "team": "OKC",
+    "points": 29.3,
+    "rebounds": 5.5
+  },
+  {
+    "player": "Giannis Antetokounmpo",
+    "team": "MIL",
+    "points": 28.8,
+    "rebounds": 10.0
+  },
+  {
+    "player": "LeBron James",
+    "team": "LAL",
+    "points": 28.7,
+    "rebounds": 9.2
+  },
+  {
+    "player": "Kawhi Leonard",
+    "team": "LAC",
+    "points": 28.6,
+    "rebounds": 7.0
+  },
+  {
+    "player": "Jimmy Butler",
+    "team": "MIA",
+    "points": 27.5,
+    "rebounds": 6.9
+  },
+  {
+    "player": "Anthony Davis",
+    "team": "LAL",
+    "points": 26.7,
+    "rebounds": 12.0
+  },
+  {
+    "player": "Jayson Tatum",
+    "team": "BOS",
+    "points": 30.0,
+    "rebounds": 8.8
+  },
+  {
+    "player": "Ja Morant",
+    "team": "MEM",
+    "points": 28.0,
+    "rebounds": 5.6
+  },
+  {
+    "player": "Damian Lillard",
+    "team": "POR",
+    "points": 29.5,
+    "rebounds": 4.3
+  },
+  {
+    "player": "Zion Williamson",
+    "team": "NOP",
+    "points": 26.0,
+    "rebounds": 7.2
+  },
+  {
+    "player": "Julius Randle",
+    "team": "NYK",
+    "points": 25.1,
+    "rebounds": 10.0
+  },
+  {
+    "player": "Karl-Anthony Towns",
+    "team": "MIN",
+    "points": 25.0,
+    "rebounds": 8.5
+  },
+  {
+    "player": "Kevin Durant",
+    "team": "BKN",
+    "points": 27.7,
+    "rebounds": 7.1
+  },
+  {
+    "player": "De'Aaron Fox",
+    "team": "SAC",
+    "points": 25.3,
+    "rebounds": 4.2
+  },
+  {
+    "player": "James Harden",
+    "team": "PHI",
+    "points": 21.0,
+    "rebounds": 6.1
+  },
+  {
+    "player": "Paul George",
+    "team": "LAC",
+    "points": 23.8,
+    "rebounds": 6.1
+  },
+  {
+    "player": "Trae Young",
+    "team": "ATL",
+    "points": 26.2,
+    "rebounds": 3.9
+  },
+  {
+    "player": "Jaylen Brown",
+    "team": "BOS",
+    "points": 24.5,
+    "rebounds": 6.6
+  },
+  {
+    "player": "Pascal Siakam",
+    "team": "TOR",
+    "points": 25.2,
+    "rebounds": 7.8
+  },
+  {
+    "player": "Brandon Ingram",
+    "team": "NOP",
+    "points": 24.0,
+    "rebounds": 5.1
+  },
+  {
+    "player": "Jaren Jackson Jr.",
+    "team": "MEM",
+    "points": 20.1,
+    "rebounds": 6.8
+  },
+  {
+    "player": "Fred VanVleet",
+    "team": "HOU",
+    "points": 19.3,
+    "rebounds": 4.1
+  },
+  {
+    "player": "Domantas Sabonis",
+    "team": "SAC",
+    "points": 19.1,
+    "rebounds": 12.5
+  },
+  {
+    "player": "Nikola Jokic",
+    "team": "DEN",
+    "points": 24.8,
+    "rebounds": 11.8
+  },
+  {
+    "player": "Tyrese Haliburton",
+    "team": "IND",
+    "points": 20.7,
+    "rebounds": 3.7
+  },
+  {
+    "player": "Kyrie Irving",
+    "team": "DAL",
+    "points": 25.2,
+    "rebounds": 4.8
+  },
+  {
+    "player": "Klay Thompson",
+    "team": "GSW",
+    "points": 21.8,
+    "rebounds": 4.2
+  },
+  {
+    "player": "Bradley Beal",
+    "team": "PHX",
+    "points": 23.2,
+    "rebounds": 4.9
+  },
+  {
+    "player": "Kristaps Porzingis",
+    "team": "BOS",
+    "points": 23.2,
+    "rebounds": 8.4
+  },
+  {
+    "player": "Jamal Murray",
+    "team": "DEN",
+    "points": 21.1,
+    "rebounds": 4.0
+  },
+  {
+    "player": "Cade Cunningham",
+    "team": "DET",
+    "points": 19.9,
+    "rebounds": 5.7
+  },
+  {
+    "player": "Franz Wagner",
+    "team": "ORL",
+    "points": 18.4,
+    "rebounds": 4.6
+  },
+  {
+    "player": "Tyler Herro",
+    "team": "MIA",
+    "points": 20.1,
+    "rebounds": 5.4
+  },
+  {
+    "player": "Scottie Barnes",
+    "team": "TOR",
+    "points": 17.6,
+    "rebounds": 7.4
+  },
+  {
+    "player": "Rudy Gobert",
+    "team": "MIN",
+    "points": 13.7,
+    "rebounds": 11.7
+  },
+  {
+    "player": "Mikal Bridges",
+    "team": "BKN",
+    "points": 23.5,
+    "rebounds": 4.7
+  },
+  {
+    "player": "Evan Mobley",
+    "team": "CLE",
+    "points": 16.2,
+    "rebounds": 9.0
+  },
+  {
+    "player": "Darius Garland",
+    "team": "CLE",
+    "points": 21.5,
+    "rebounds": 2.8
+  },
+  {
+    "player": "Jalen Green",
+    "team": "HOU",
+    "points": 22.2,
+    "rebounds": 3.7
+  },
+  {
+    "player": "Victor Wembanyama",
+    "team": "SAS",
+    "points": 19.1,
+    "rebounds": 7.8
+  },
+  {
+    "player": "Draymond Green",
+    "team": "GSW",
+    "points": 8.5,
+    "rebounds": 7.3
+  },
+  {
+    "player": "Jabari Smith Jr.",
+    "team": "HOU",
+    "points": 14.2,
+    "rebounds": 7.1
+  },
+  {
+    "player": "Jordan Poole",
+    "team": "WAS",
+    "points": 20.8,
+    "rebounds": 3.1
+  },
+  {
+    "player": "Bam Adebayo",
+    "team": "MIA",
+    "points": 21.4,
+    "rebounds": 9.1
+  }
+]
